@@ -1,5 +1,4 @@
-<img src="https://github.com/Pauloo2003/Pauloo2003/blob/master/images/robo.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
+<img src="https://raw.githubusercontent.com/Pauloo2003/Pauloo2003/master/images/user.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 ## Hello, Devs!! 👋
 ### O meu nome é <strong>Paulo Henrique</strong>, sou desenvolvedor fullstack, Seja bem-vindo ao meu perfil GitHub.
 
